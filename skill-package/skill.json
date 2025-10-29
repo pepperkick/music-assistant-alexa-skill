@@ -26,6 +26,15 @@
           "keywords": [],
           "name": "Audioplayer sample",
           "summary": "Sample Short Description"
+        },        
+        "en-IN": {
+          "description": "Sample skill using the AudioPlayer interface",
+          "examplePhrases": [
+            "Alexa open audio player sample"
+          ],
+          "keywords": [],
+          "name": "Audioplayer sample",
+          "summary": "Sample Short Description"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
